@@ -1,0 +1,65 @@
+.dashboard-container{
+    min-height: 100vh;
+    background-color:rgb(212, 223, 234)
+}
+.roundprogress{
+    width: 50px;
+    height:50px;
+   
+}
+.vehicle-data{
+  width: 30%;
+  height: 80px;
+ 
+}
+.vehicle-data-text{
+   width: 300px;
+   height: 20px;
+}
+.vehicle-condition-deails-box{
+    width: 30%;
+    height: 185px;
+   border: 1px solid gray;
+   margin-bottom: 15px;
+
+}
+.vehicle-condition-deails-box2{
+    height: 110px;
+    border-bottom: 1px solid gray;
+    margin: 10px;
+}
+.car-icon{
+    height: 20px;
+    width: 20px;
+    align-items: cener;
+    
+}
+.content-border-en-route{
+    border-left: 5px solid green;
+}
+.content-border-en-route h6{
+    margin-left: 5px;
+}
+.content-border-avilable{
+    border-left: 5px solid rgb(90, 218, 90);
+}
+.content-border-avilable h6{
+    margin-left: 5px;
+    color: rgb(90, 218, 90);
+}
+.content-border-out-of-service{
+    border-left: 5px solid orange
+}
+.content-border-out-of-service h6{
+    margin-left: 5px;
+}
+.traffic-jam-right-box{
+     border-bottom: 1px solid gray;
+}
+.total-vahicle-container{
+    height: 240px;
+    margin-left: 4px;
+}
+.vehicle-condition-container{
+    height: 240px;
+}
